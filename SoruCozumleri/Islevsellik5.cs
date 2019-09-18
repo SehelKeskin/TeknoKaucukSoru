@@ -45,6 +45,7 @@ namespace SoruCozumleri
 
         private void Button3_Click(object sender, EventArgs e)
         {
+
             this.Hide();
             Islevsellik4 frm = new Islevsellik4();
             frm.Show();
